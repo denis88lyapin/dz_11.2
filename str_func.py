@@ -1,5 +1,5 @@
 def letters_upper(letters):
-    """возвращает заглавные буквы"""
+    """возвращает строку в верхнем регистре"""
     return letters.upper()
 
 def  first_letter_title(letters):
